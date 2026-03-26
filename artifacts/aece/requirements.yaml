@@ -1,0 +1,16 @@
+packages:
+  "framer-motion": "Animations and page transitions"
+  "recharts": "Data visualization for ethical framework scores"
+  "three": "3D particle background"
+  "@react-three/fiber": "React bindings for Three.js"
+  "@react-three/drei": "Helpers for Three.js in React"
+  "clsx": "Utility for conditional classes"
+  "tailwind-merge": "Utility for tailwind classes"
+  "lucide-react": "Icons"
+  "date-fns": "For formatting timestamps"
+
+images: []
+
+notes:
+  - WebSocket connects to /ws path for realtime updates
+  - Assuming API base is /api and matches the generated schema
